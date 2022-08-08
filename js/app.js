@@ -10,6 +10,7 @@ const coffees = [
   { name: "Veritatis", image: "images/coffee8.jpg" },
   { name: "Accusantium", image: "images/coffee9.jpg" },
 ]
+//from template
 
 const showCoffees = () => {
     let output = ""
